@@ -2,7 +2,7 @@
 Author: Zhanhong Cheng
 Date: 2025-05-02
 Description: A PyTorch implementation of the Multinomial Logit (MNL) model, with methods for parameter unpacking, robust standard error calculation, and significance testing.
-Reference: https://chengzhanhong.github.io/2025-05-01/pytorch-mnl
+Reference: https://chengzhanhong.github.io/2025-05-02/pytorch-mnl
 """
 import torch
 import torch.nn as nn
